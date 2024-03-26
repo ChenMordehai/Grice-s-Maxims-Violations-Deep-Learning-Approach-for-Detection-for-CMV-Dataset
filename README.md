@@ -1,4 +1,4 @@
-# Grice-s-Maxims-Violations-Deep-Learning-Approach-for-Detection-for-CMV-Dataset
+# Detection of Grice’s Maxims Violations: A Deep Learning Approach Using the CMV Dataset
 Our research aims to create a computational model that can identify breaches of Grice's maxims in conversational discourse, focusing specifically on relevance and manner.
 
 ## [About Our Work](Grice_s_Maxims_Violations__Deep_Learning_Approach_for_Detection_and_User_Guidance_for_CMV_Dataset.pdf)
